@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.0.2"
+  version: "1.0.3"
 
 package:
   name: pystac-ext-label
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pystac-ext-label/pystac_ext_label-${{ version }}.tar.gz
-  sha256: 92c195ba9049b1ba7ee23e1a2b53a00dc6060f2438fc51d398eebdf7d3c6a8ba
+  sha256: 6922bdedb6edd06d6d750bded6869a244a1115f04147735c59bbf885301083e9
 
 build:
   number: 0
